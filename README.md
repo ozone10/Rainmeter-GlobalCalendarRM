@@ -1,6 +1,6 @@
 # Rainmeter-GlobalCalendarRM
 
-[![Latest release](https://img.shields.io/github/v/release/ozone10/Rainmeter-GlobalCalendarRM?include_prereleases)](https://github.com/ozone10/Rainmeter-Rainmeter-GlobalCalendarRM/releases/latest)
+[![Latest release](https://img.shields.io/github/v/release/ozone10/Rainmeter-GlobalCalendarRM?include_prereleases)](https://github.com/ozone10/Rainmeter-GlobalCalendarRM/releases/latest)
 [![Total downloads](https://img.shields.io/github/downloads/ozone10/Rainmeter-GlobalCalendarRM/total.svg)](https://github.com/ozone10/Rainmeter-GlobalCalendarRM/releases)
 [![Licence](https://img.shields.io/github/license/ozone10/Rainmeter-Rainmeter-GlobalCalendarRM?color=9cf)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
